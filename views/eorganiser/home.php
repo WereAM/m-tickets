@@ -11,7 +11,7 @@
         <section class="content">
             <div class="desc">
                 <h2>Important Text</h2>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id non nisi odio velit enim nihil placeat fuga! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id non nisi odio velit enim nihil placeat fuga! 
+            
                 <ul>
                     <li>Trail</li>
                     <li>Choose the event</li>
@@ -32,7 +32,7 @@
             </div>
             <div class="desc">
                 <h2>Important Text</h2>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id non nisi odio velit enim nihil placeat fuga! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id non nisi odio velit enim nihil placeat fuga! 
+            
                 <ul>
                     <li>Trail</li>
                     <li>Choose the event</li>
@@ -45,7 +45,7 @@
         <section class="content">
             <div class="desc">
                 <h2>Important Text</h2>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id non nisi odio velit enim nihil placeat fuga! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id non nisi odio velit enim nihil placeat fuga! 
+                
                 <ul>
                     <li>Trail</li>
                     <li>Choose the event</li>
